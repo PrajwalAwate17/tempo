@@ -1,6 +1,6 @@
 ---
 global:
-  clusterDomain: 'cluster.local'
+  clusterDomain: 'cluster.local' 
 
 multitenancyEnabled: true
 enterprise:
